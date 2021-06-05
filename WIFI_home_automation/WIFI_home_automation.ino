@@ -124,7 +124,7 @@ void loop(){
             client.println(".button2 {background-color: #06d6a0;}</style></head>");
             
             // Web Page Heading
-            client.println("<body><h1><u>IOT TASK-6</u></h1>");
+            client.println("<body><h1><u>Controlling home power outlet using Node MCU and Relay</u></h1>");
             client.println("<body><h3>18BEE0070</h3>");
             client.println("<body><h3>18BEE0378</h3>");
             client.println("<body><h3>18BEE0179</h3>");
