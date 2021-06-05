@@ -1,5 +1,5 @@
 # IOT-TASK-6 <br />
-**Challenging Experiment on 'IOT FUNDAMENTALS (ECE3501)'**<br /><br />
+**MEASUREMENTS AND INSTRUMENTATION (J component)**<br /><br />
 
 1. Youtube Video link -  https://bit.ly/2H11rOs<br />
 
